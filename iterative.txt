@@ -1,1 +1,1 @@
-stage1: hello
+stage1:
